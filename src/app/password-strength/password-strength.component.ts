@@ -39,7 +39,7 @@ export class PassowordStrengthBarComponent implements OnChanges  {
 
   private static measureStrength(pass: string) {
 
-     //Score will be zero at first
+     //Score will be zero at first`
 
       let score = 0;
 

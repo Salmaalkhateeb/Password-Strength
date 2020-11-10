@@ -23,3 +23,4 @@ describe('PassowordStrengthBarComponent', () => {
     expect(component).toBeTruthy();
   });
 });
+// test
